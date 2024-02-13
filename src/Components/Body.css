@@ -1,0 +1,7 @@
+.body {
+  display: flex;
+  flex-direction: row;
+  background-color: darkslategrey;
+  justify-content: space-evenly;
+  flex-shrink: 1;
+}
